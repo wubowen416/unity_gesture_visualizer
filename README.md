@@ -1,5 +1,7 @@
 # unity_gesture_visualizer
 
+## Introduction
+
 Visualization for joint angle data of https://github.com/wubowen416/gesture-generation in Unity.
 
 ## Requirement
@@ -15,3 +17,6 @@ Unity verison 2019.4.xx
 
 ## Note
 Video with audio can be created using 'Photo' on Windows.
+
+## Contact
+For any questions, please contact wu.bowen@irl.sys.es.osaka-u.ac.jp
