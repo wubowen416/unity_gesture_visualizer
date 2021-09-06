@@ -12,7 +12,7 @@ Unity verison 2019.4.xx
 2. Click the small triangle icon on the left side of 'MaleDummy' in the 'Hierarchy' menu, then 'Dummy', finally B-hips. Now you should see 'B-spine' below 'B-hips'.
 3. Select 'B-spine', you should see 'Motion Script (Script)' component in the 'Inspector' menu.
 4. Find motion files in the 'Project' menu, which should be located in 'Assets/Motions' or wherever the files are stored.
-5. Go back to 'Motion Script (Script)' in 'Inspector', drag and place files from 'Project' to box on the right of 'Motion' inside the 'Motion Script (Script)' component.
+5. Go back to 'Motion Script (Script)' in 'Inspector', drag a file from 'Project' and place it on the box which is on the right of 'Motion' inside the 'Motion Script (Script)' component.
 6. Click play and see the result.
 
 ## Note
