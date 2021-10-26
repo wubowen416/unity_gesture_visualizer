@@ -1,0 +1,12 @@
+root
+B-chest
+B-chest/B-upperChest/B-neck
+B-chest/B-upperChest/B-neck/B-head
+B-chest/B-upperChest/B-shoulder.L.ref
+B-chest/B-upperChest/B-shoulder.L.ref/B-upper_arm.L.ref
+B-chest/B-upperChest/B-shoulder.L.ref/B-upper_arm.L.ref/B-forearm.L.ref
+B-chest/B-upperChest/B-shoulder.L.ref/B-upper_arm.L.ref/B-forearm.L.ref/B-hand.L.ref
+B-chest/B-upperChest/B-shoulder.R.ref
+B-chest/B-upperChest/B-shoulder.R.ref/B-upper_arm.R.ref
+B-chest/B-upperChest/B-shoulder.R.ref/B-upper_arm.R.ref/B-forearm.R.ref
+B-chest/B-upperChest/B-shoulder.R.ref/B-upper_arm.R.ref/B-forearm.R.ref/B-hand.R.ref
